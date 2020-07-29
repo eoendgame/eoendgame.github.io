@@ -23,7 +23,7 @@
 
 h1 {
     font-size: 12vw;
-    padding: 8vh 2rem 0;
+    padding: 10vh 2rem 0;
     text-shadow: 0.2vw 0.2vw #3f3f3f;
 }
 
@@ -35,12 +35,7 @@ h2 {
 
 h3 {
     font-size: 2vw;
-    padding: 9vw 2rem 0;
-    text-shadow: 0.15vw 0.15vw #272727;
-}
-
-h4 {
-    font-size: 2vw;
+    padding: 1vw 2rem 0;
     text-shadow: 0.15vw 0.15vw #272727;
 }
 
@@ -62,12 +57,7 @@ h4 {
 
     h3 {
         font-size: 5vw;
-        padding: 20vw 2rem 0;
-    }
-
-    h4 {
-        font-size: 5vw;
-        text-shadow: 0.15vw 0.15vw #272727;
+        padding: 1vw 2rem 0;
     }
 }
 
@@ -79,7 +69,7 @@ h4 {
 
     h1 {
         font-size: 23vw;
-        padding: 8vh 0 0;
+        padding: 10vh 0 0;
     }
 
     h2 {
@@ -89,12 +79,7 @@ h4 {
 
     h3 {
         font-size: 5vw;
-        padding: 23vw 2rem 0;
-    }
-
-    h4 {
-        font-size: 5vw;
-        text-shadow: 0.15vw 0.15vw #272727;
+        padding: 1vw 2rem 0;
     }
 }
 
@@ -106,7 +91,7 @@ h4 {
 
     h1 {
         font-size: 23vw;
-        padding: 8vh 0 0;
+        padding: 12vh 0 0;
     }
 
     h2 {
@@ -116,12 +101,7 @@ h4 {
 
     h3 {
         font-size: 5vw;
-        padding: 25vw 2rem 0;
-    }
-
-    h4 {
-        font-size: 5vw;
-        text-shadow: 0.15vw 0.15vw #272727;
+        padding: 1vw 2rem 0;
     }
 }
 
@@ -133,7 +113,7 @@ h4 {
 
     h1 {
         font-size: 23vw;
-        padding: 8vh 0 0;
+        padding: 12vh 0 0;
     }
 
     h2 {
@@ -143,12 +123,7 @@ h4 {
 
     h3 {
         font-size: 5vw;
-        padding: 27vw 2rem 0;
-    }
-
-    h4 {
-        font-size: 5vw;
-        text-shadow: 0.15vw 0.15vw #272727;
+        padding: 1vw 2rem 0;
     }
 }
 
@@ -160,7 +135,7 @@ h4 {
 
     h1 {
         font-size: 23vw;
-        padding: 8vh 0 0;
+        padding: 12vh 0 0;
     }
 
     h2 {
@@ -170,12 +145,7 @@ h4 {
 
     h3 {
         font-size: 5vw;
-        padding: 27vw 2rem 0;
-    }
-
-    h4 {
-        font-size: 5vw;
-        text-shadow: 0.15vw 0.15vw #272727;
+        padding: 1vw 2rem 0;
     }
 }
 
@@ -187,7 +157,7 @@ h4 {
 
     h1 {
         font-size: 23vw;
-        padding: 5vh 0 0;
+        padding: 12vh 0 0;
     }
 
     h2 {
@@ -197,11 +167,6 @@ h4 {
 
     h3 {
         font-size: 5vw;
-        padding: 25vw 2rem 0;
-    }
-
-    h4 {
-        font-size: 5vw;
-        text-shadow: 0.15vw 0.15vw #272727;
+        padding: 1vw 2rem 0;
     }
 }
